@@ -6,7 +6,7 @@
 }
 
 .background-site {
-    background-image: url('../img/hero-less-brightness.jpg');
+    background-image: url('../img/img itens/hero-less-brightness.jpg');
 }
 
 .cabecalho {
@@ -92,7 +92,7 @@
 .btn-container .join-forum {
     background-color: #2A353C;
     color: #ffffff;
-    background-image: url('../img/FighterSpiffo.png');
+    background-image: url('../img/img itens/FighterSpiffo.png');
     background-size: 86px;
     background-repeat: no-repeat;
     background-position: right bottom;
@@ -105,7 +105,7 @@
 .btn-container .buy-steam {
     background-color: #1B3451;
     color: #ffffff;
-    background-image: url('../img/steam-logo.png');
+    background-image: url('../img/img itens/steam-logo.png');
     background-size: 75px;
     background-repeat: no-repeat;
     background-position: left;
